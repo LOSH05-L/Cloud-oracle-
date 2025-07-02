@@ -19,3 +19,14 @@ Bharatiya Antariksh Hackathon 2025 – Problem Statement 6: Cloud Motion Predict
 - scikit-learn, Grad-CAM  
 
 ## 📁 Project Structure
+
+## 📌 Goals
+- Predict cloud motion using conditional diffusion models  
+- Generate multiple plausible futures (ensemble)  
+- Visualize uncertainty and explain predictions  
+- Deliver a compelling, interactive demo  
+
+## 📽️ Demo (Coming Soon)
+
+---
+
